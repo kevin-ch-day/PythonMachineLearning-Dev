@@ -1,9 +1,9 @@
-import numpy as np
+a = 332915073 * .202
+b = 332915073 * .19
+c = 332915073 * .192
+d = 332915073 * .168
 
-x = np.zeros(10) * 5
-print(x)
-
-r = np.random.rand(1)
-print(r)
-
-print("Hello World")
+print(a)
+print(b)
+print(c)
+print(d)
